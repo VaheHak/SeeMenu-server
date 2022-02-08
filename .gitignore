@@ -1,0 +1,8 @@
+/node_modules
+/.idea
+/public/images
+.env
+yarn.lock
+yarn-error.log
+package-lock.json
+order.sql
